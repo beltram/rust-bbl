@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Rust</title>
+
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/sopra-banking.css">
+
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+
+    </script>
+</head>
+<body>
+<div class="reveal">
+    <div class="header">
+        <img class="logo" src="lib/images/banking-logo.png" alt="Sopra banking software"/>
+        <span class="title">Rust</span>
+        <span class="author">Beltram Maldant</span>
+    </div>
+    <div class="slides">
+        <section data-markdown># Rust</section>
+        <section>
+            <section data-markdown># Misc</section>
+            <section data-markdown="slides/misc/inception.md"></section>
+            <section data-markdown="slides/misc/naming.md"></section>
+            <section data-markdown="slides/misc/they-love-it.md"></section>
+            <section data-markdown="slides/misc/they-star-it.md"></section>
+            <section data-markdown="slides/misc/they-use-it.md"></section>
+        </section>
+        <section>
+            <section data-markdown># Features</section>
+            <section data-markdown="slides/features/primitives.md"></section>
+            <section data-markdown="slides/features/string.md"></section>
+            <section data-markdown="slides/features/borrowing-1.md"></section>
+            <section data-markdown="slides/features/borrowing-2.md"></section>
+            <section data-markdown="slides/features/reliable.md"></section>
+            <section data-markdown="slides/features/typed.md"></section>
+            <section data-markdown="slides/features/generics.md"></section>
+            <section data-markdown="slides/features/composition.md"></section>
+            <section data-markdown="slides/features/immutability.md"></section>
+            <section data-markdown="slides/features/lifetime.md"></section>
+            <section data-markdown="slides/features/null-safe.md"></section>
+            <section data-markdown="slides/features/segfault.md"></section>
+            <section data-markdown="slides/features/thread-safe.md"></section>
+            <section data-markdown="slides/features/performance.md"></section>
+            <section data-markdown="slides/features/performance.md"></section>
+            <section data-markdown="slides/features/cargo.md"></section>
+            <section data-markdown="slides/features/0-cost-abstraction.md"></section>
+            <section data-markdown="slides/features/batteries-included.md"></section>
+            <section data-markdown="slides/features/documentation.md"></section>
+            <section data-markdown="slides/features/high-order-functions.md"></section>
+            <section data-markdown="slides/features/macro.md"></section>
+            <section data-markdown="slides/features/modular.md"></section>
+            <section data-markdown="slides/features/opinionated.md"></section>
+            <section data-markdown="slides/features/profiling.md"></section>
+            <section data-markdown="slides/features/error.md"></section>
+        </section>
+        <section>
+            <section data-markdown># Gems</section>
+            <section data-markdown="slides/gems/wasm-1.md"></section>
+            <section data-markdown="slides/gems/wasm-2.md"></section>
+            <section data-markdown="slides/gems/clap.md"></section>
+            <section data-markdown="slides/gems/structopt.md"></section>
+            <section data-markdown="slides/gems/serde.md"></section>
+            <section data-markdown="slides/gems/nom.md"></section>
+            <section data-markdown="slides/gems/actix.md"></section>
+            <section data-markdown="slides/gems/bench.md"></section>
+            <section data-markdown="slides/gems/cross.md"></section>
+            <section data-markdown="slides/gems/doc.md"></section>
+        </section>
+        <section>
+            <section data-markdown># Competition</section>
+            <section data-markdown="slides/competition/c.md"></section>
+            <section data-markdown="slides/competition/go-1.html"></section>
+            <section data-markdown="slides/competition/go-2.html"></section>
+            <section data-markdown="slides/competition/go-3.md"></section>
+            <section data-markdown="slides/competition/kotlin-native.md"></section>
+        </section>
+    </div>
+
+</div>
+
+
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.js"></script>
+<script src="js/external-html.js"></script>
+<script>
+    Reveal.initialize({
+        width: 1200,
+        history: true,
+        dependencies: [
+            {src: 'plugin/twitter/embed-tweet.js'},
+            {src: 'plugin/markdown/marked.js'},
+            {src: 'plugin/markdown/markdown.js'},
+            {src: 'plugin/notes/notes.js', async: true},
+            {
+                src: 'plugin/highlight/highlight.js', async: true, callback: function () {
+                    hljs.initHighlightingOnLoad();
+                }
+            }
+        ]
+    });
+
+    Reveal.configure({
+        slideNumber: true
+    });
+
+</script>
+</body>
+</html>
