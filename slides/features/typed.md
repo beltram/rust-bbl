@@ -18,7 +18,7 @@ impl Drive for Car {
 impl Default for Car {
     fn default() -> Self {
         Car {
-            color: "'blue".to_string(),
+            color: "red".to_string(),
             key: "🔑".to_string(),
         }
     }
