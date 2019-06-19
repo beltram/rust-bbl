@@ -1,1 +1,1 @@
-## Orphan rule
+## Smart pointer
