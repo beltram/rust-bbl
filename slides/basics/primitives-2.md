@@ -1,5 +1,5 @@
 ## Primitives
-<img src="lib/images/primitives.svg" style="height: 40vh"/>
+<img src="lib/images/primitives.svg" style="height: 45vh"/>
 
 <!--
 let decimal = 98_222;

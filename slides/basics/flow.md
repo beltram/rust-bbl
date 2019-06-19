@@ -1,5 +1,5 @@
 ## Control flow
-<img src="lib/images/control-flow.svg" style="height: 40vh"/>
+<img src="lib/images/control-flow.svg" style="height: 45vh"/>
 
 <!--
 let temperature = 20;

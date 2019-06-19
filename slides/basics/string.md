@@ -1,5 +1,5 @@
 ## String
-<img src="lib/images/string.svg" style="height: 40vh"/>
+<img src="lib/images/string.svg" style="height: 45vh"/>
 
 <!--
 let empty_string: String = String::new();
