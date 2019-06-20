@@ -1,5 +1,5 @@
 ## Performance
-*Plaintext Resp/s at x concurrent request (June 2019)*
+*Plaintext Resp/s at x concurrent request (Nov. 2018)*  
 
 |Fmk|256|1024|16,384|latency|
 |:-------:|:-------:|:------:|:--------:|:--------:|

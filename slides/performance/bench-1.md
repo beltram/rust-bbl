@@ -1,5 +1,6 @@
 ## Performance
-*Resp/s at x queries/request (June 2019)*
+*Resp/s at x queries/request (Nov. 2018)*  
+*actix-0.7.1 / vertx-3.5.0.Beta1 / spring-2.0.1 / nodejs-8.1.0* 
 
 |Fmk|1|10|20|latency|
 |:-------:|:-------:|:------:|:--------:|:--------:|
