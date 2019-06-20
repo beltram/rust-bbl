@@ -2,8 +2,8 @@
 
 ||Java|Kotlin|Rust|
 |:-------:|:-------:|:------:|:--------:|
-|**Native Async**|❌|✅|🌓|
-|**Inline class**|❌|🌓|✅|
-|**Pattern matching**|❌|❌|✅|
-|**For clis**|❌|❌|✅|
-|**Opinionated**|❌|🌓|✅|
+|**Default parameters**|❌|✅|❌|
+|**Function extension**|❌|✅|✅|
+|**Aliasing**|❌|✅|✅|
+|**Native delegation**|❌|✅|❌|
+|**Operator overloading**|❌|✅|✅|

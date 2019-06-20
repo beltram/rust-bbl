@@ -2,10 +2,9 @@
 
 ||Java|Kotlin|Rust|
 |:-------:|:-------:|:------:|:--------:|
-|**No JIT**|❌|❌|✅|
-|**Macro**|❌|❌|✅|
-|**Tuples**|❌|🌓|✅|
-|**Shadowing**|❌|❌|✅|
-|**Modular**|❌|❌|✅|
-|**Unsigned numbers**|❌|🌓|✅|
-|**Inlining**|❌|✅|✅|
+|**Type inference**|❌|✅|✅|
+|**Smart casting**|✅|✅|❌|
+|**Lazy init**|❌|✅|✅|
+|**Static members**|✅|✅|✅|
+|**Polymorphism**|✅|✅|✅|
+|**Encapsulation**|✅|✅|✅|
