@@ -1,5 +1,5 @@
 ## Standard traits
-* Copy, Clone: I can be deep copied
+* Copy, Clone: I can be deep copied [Copy!=Clone](https://doc.rust-lang.org/std/marker/trait.Copy.html#whats-the-difference-between-copy-and-clone)
 * Display: I can be printed in println!("{}", dis) without formatter like {:?}
 * (De)Serializable: From serde (marshalling)
 * Debug: Destructure structs fields while printed
