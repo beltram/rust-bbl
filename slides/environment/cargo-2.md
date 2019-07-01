@@ -7,3 +7,4 @@
 * `bench` execute benchmark tests (perf)
 * `doc --open` generate doc for local crate + others & open in browser 😍
 * `run` compile & execute
+* `search & install` external Rust binaries
