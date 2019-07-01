@@ -7,7 +7,7 @@ struct Date {
     pub month: u8,
     pub day: u8,
 }
-    
+// aka zero cost abstraction    
 struct TupleDate(u16, u8, u8);
     
 fn calendar() {
