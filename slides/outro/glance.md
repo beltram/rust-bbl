@@ -1,4 +1,4 @@
-## At a glance (todo)
+## At a glance
 * Fast
 * Reliable
 * Wasm
