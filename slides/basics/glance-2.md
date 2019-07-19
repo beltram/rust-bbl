@@ -3,7 +3,7 @@
 ||Java|Kotlin|Rust|
 |:-------:|:-------:|:------:|:--------:|
 |**Type inference**|❌|✅|✅|
-|**Smart casting**|✅|✅|❌|
+|**Auto-boxing**|✅|✅|❌|
 |**Lazy init**|❌|✅|✅|
 |**Static members**|✅|✅|✅|
 |**Polymorphism**|✅|✅|✅|
