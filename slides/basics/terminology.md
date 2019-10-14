@@ -1,8 +1,8 @@
 ## Terminology
 
-|Java|Kotlin|Rust|
-|:-------:|:------:|:--------:|
-|class|class|struct|
-|interface|interface|trait|
-|library|library|crate|
-|lambda|lambda|closure|
+|**Java/Kotlin**|**Rust**|
+|:------:|:--------:|
+|class|struct|
+|interface|trait|
+|lambda|closure|
+|library|crate|
