@@ -1,6 +1,7 @@
 ## Clap
-<img src="lib/images/clap.svg" style="height:40vh"/>   
-[Try it](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=13c7bc439f9060e5c83ab80bbe43d3f5)
+<img src="lib/images/clap.svg" style="height:40vh"/>    
+[📒](https://docs.rs/clap/2.33.0/clap) | 
+[💻](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=13c7bc439f9060e5c83ab80bbe43d3f5)   
 
 <!--
 let blame_beltram = vec!["guilt", "blame", "-w", "beltram"];

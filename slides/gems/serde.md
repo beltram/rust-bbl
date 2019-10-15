@@ -1,6 +1,7 @@
 ## Serde
 <img src="lib/images/serde.svg" style="height:40vh"/>  
-[Try it](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4aaae8de88ab6c997530802807b5fab3)
+[📒](https://serde.rs/) | 
+[💻](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4aaae8de88ab6c997530802807b5fab3)
 
 <!--
 use serde::*;
@@ -21,4 +22,5 @@ fn test() {
     let real_json_dog: Dog = serde_json::from_str(&json_dog).unwrap();
     println!("Real Yaml dog {:#?}", real_yaml_dog);
     println!("Real Json dog {:#?}", real_json_dog);
-}-->
+}
+-->
