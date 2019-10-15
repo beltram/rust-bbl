@@ -1,5 +1,7 @@
 ## Control flow
-<img src="lib/images/control-flow.svg" style="height: 45vh"/>
+<img src="lib/images/control-flow.svg" style="height: 40vh"/>  
+[📒](https://doc.rust-lang.org/1.7.0/book/loops.html) | 
+[💻](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=bccf5886d84e73992078612136f71303)
 
 <!--
 let temperature = 20;
@@ -21,4 +23,5 @@ match year {
     1998 | 2018 => println!("France"),
     2014 => println!("Germany"),
     _ => println!("Don't care")
-}-->
+}
+-->
