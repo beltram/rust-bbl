@@ -1,5 +1,7 @@
 ## Fearless concurrency 
-<img src="lib/images/thread-safe.svg" style="height: 45vh"/>
+<img src="lib/images/thread-safe.svg" style="height: 40vh"/>  
+[📒](https://doc.rust-lang.org/1.7.0/book/concurrency.html) | 
+[💻](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=46cba10e3dde1ca0e8f8d54d653eaa16)
 
 <!--
 use std::{sync::{Arc, Mutex}, thread};
@@ -18,4 +20,5 @@ fn send_chunks() {
     });
     vec!["🚀👨", "👩☁️💎"].par_iter()
         .for_each(|song| println!("Listen {}", song));
-}-->
+}
+-->

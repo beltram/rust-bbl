@@ -1,7 +1,10 @@
 ## Native tuples
-<img src="lib/images/tuples.svg" style="height:45vh"/> 
+<img src="lib/images/tuples.svg" style="height:40vh"/>    
+[📒](https://doc.rust-lang.org/rust-by-example/primitives/tuples.html) | 
+[💻](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4df01a602dc40592591f884c5eb0bdce)
 
-<!--#[derive(new)]
+<!--
+#[derive(new)]
 struct Date {
     pub year: u16,
     pub month: u8,
@@ -22,4 +25,5 @@ fn calendar() {
     
 fn to_rep_date(date: Date) -> (u16, u8, u8) {
     (date.year - 1792, (12 + date.month - 9) % 12, date.day)
-}-->
+}
+-->
