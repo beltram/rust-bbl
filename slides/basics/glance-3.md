@@ -5,5 +5,6 @@
 |**Default parameters**|❌|✅|❌|
 |**Function extension**|❌|✅|✅|
 |**Aliasing**|❌|✅|✅|
+|**Shadowing**|❌|❌|✅|
 |**Native delegation**|❌|✅|❌|
 |**Operator overloading**|❌|✅|✅|

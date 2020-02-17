@@ -2,8 +2,8 @@
 
 ||Java|Kotlin|Rust|
 |:-------:|:-------:|:------:|:--------:|
-|**Native Async**|❌|✅|🌓|
+|**Native Async**|❌|✅|✅|
 |**Inline class**|❌|🌓|✅|
-|**Pattern matching**|❌|❌|✅|
+|**Pattern matching**|❌|🌓|✅|
 |**For clis**|❌|❌|✅|
 |**Opinionated**|❌|🌓|✅|

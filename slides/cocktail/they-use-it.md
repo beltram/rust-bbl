@@ -11,5 +11,6 @@
 <img src="https://www.ovh.com/fr/images/logos/logo-ovh-twitter.jpg" style="height: 10vh; border: 0vh"/>  
 <img src="https://www.chef.io/wp-content/uploads/2017/07/chef-software_facebook-share_min.png" style="height: 10vh; border: 0vh"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/CoreOS.svg" style="height: 10vh; border: 0vh; background: white"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Google_fuchsia3.svg/1200px-Google_fuchsia3.svg.png" style="height: 10vh; border: 0vh; background: white"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Google_fuchsia3.svg/1200px-Google_fuchsia3.svg.png" style="height: 10vh; border: 0vh; background: white"/>
+<img src="https://cdn.dribbble.com/users/713882/screenshots/6466459/firecracker_1.png" style="height: 10vh; border: 0vh; background: white"/>  
 [*(full list)*](https://www.rust-lang.org/production/users)

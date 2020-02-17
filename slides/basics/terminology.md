@@ -1,6 +1,6 @@
 ## Terminology
 
-|**Java/Kotlin**|**Rust**|
+|**Jvm**|**Rust**|
 |:------:|:--------:|
 |class|struct|
 |interface|trait|
