@@ -3,7 +3,6 @@
 * Intellij
   * ++ imports completion
   * ++ transition from java
-  * -- slow in full profile
   * -- poor linting
 * VsCode
   * ++ full linting

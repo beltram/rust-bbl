@@ -5,4 +5,4 @@
 * [Docs.rs](https://docs.rs/) online documentation for all public crates
 * [RFC](https://github.com/rust-lang/rfcs) github project for future Rust RFCs discussions
 * AreWeYet derivates [ide](https://areweideyet.com/), [web](https://www.arewewebyet.org/), [async](https://areweasyncyet.rs/)
-* Communities: stackoverflow, reddit, twitter, blogs
+* Communities: stackoverflow, [reddit](https://www.reddit.com/r/rust/), twitter, blogs
