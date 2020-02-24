@@ -1,2 +1,2 @@
 ## Phantom data
-*For BBL*
+*For Rust 201*

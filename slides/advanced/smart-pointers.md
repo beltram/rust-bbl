@@ -1,2 +1,2 @@
 ## Smart pointer
-*For BBL*
+*For Rust 201*
